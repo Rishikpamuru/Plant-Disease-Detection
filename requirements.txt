@@ -1,0 +1,7 @@
+numpy
+pickle-mixin
+opencv-python
+scikit-learn
+tensorflow
+keras
+matplotlib
